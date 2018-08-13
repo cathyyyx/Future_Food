@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534139882719.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1982276915",
+    "id" : "33138794",
+    "lastKnownWriteTime" : 1526811896,
+    "last_content_update" : 1526811896,
+    "path" : "~/Dropbox (Personal)/Website/statsgen/config.toml",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "241,0",
+        "scrollLine" : "227"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

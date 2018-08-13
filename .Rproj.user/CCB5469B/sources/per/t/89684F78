@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534139684159.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2623781869",
+    "id" : "89684F78",
+    "lastKnownWriteTime" : 1534139910,
+    "last_content_update" : 1534139910779,
+    "path" : "~/Dropbox (Personal)/Website/FF2018/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "17,16",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
