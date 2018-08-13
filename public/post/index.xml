@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Future of Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>temp</title>
+      <link>/post/temp/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/temp/</guid>
+      <description>TEST  </description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>
