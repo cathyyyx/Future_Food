@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/fisrt-journal/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/temp/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
@@ -19,31 +24,31 @@
   
   <url>
     <loc>/tags/development/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/development/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/golang/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/golang/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,7 +60,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -79,7 +84,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,24 @@
     <description>Recent content on Future of Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fisrt Journal</title>
+      <link>/post/fisrt-journal/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/fisrt-journal/</guid>
+      <description>Content Two group meetings took place on the 9th and 15th of August. On the 9th of August we were given an introduction to selective breeding and outlined some of the goals and challenges in this field have. These include:
+1.Improving experimental design
+2.Improving prediction of genetic performance
+3.Understanding the biological process
+4.Improving computational performance
+For our project, we decided that we would focus on the data surrounding the selective breeding of plant crops instead of livestock - this is as there is less ‘noise’ in the data.</description>
+    </item>
     
     <item>
       <title>temp</title>
