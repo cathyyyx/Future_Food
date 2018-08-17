@@ -1,0 +1,13 @@
+---
+title: First Journal - Andrew Mchale
+author: Andrew Mchale
+date: '2018-08-17'
+categories: [andrewm]
+tags: []
+summary: ''
+---
+
+The group's first meeting occurred in week 2, which served as an introduction to the project and allowed us to get to know each other. Another meeting occurred this week, and it mainly involved setting up and understanding the development environment that the project will be created in. Github is being used alongside RStudio to create a website that will contain detailed statistical analysis of crop production in Australia. The main advantage of Github for this project is that it allows easy code collaboration, with version history being tracked. RStudio is also a suitable tool for the project, allowing the creation of markdown documents that consist of code and graphical summaries embedded within text. I installed git on my laptop and became familiar with the various commands and methods used to retrieve and update the project files. This understanding will be useful throughout the project as research and analysis is performed.
+
+
+Overall, the project is progressing well, with most of the necessary setup tasks now having been completed. The main focus of our project is still yet to be decided, with it only being narrowed down to being centred specifically around crops. In the coming weeks a main research question will need to be defined that we can work towards answering with our analysis. As not much work has been done on the actual project so far, roles have not yet been defined within the group. Due to my Computer Science background, I will probably focus more on the coding component of the project.

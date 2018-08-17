@@ -1,0 +1,38 @@
+---
+title: First Journal - Jayden Fraser
+author: Jayden Fraser
+date: '2018-08-17'
+categories: [jayden]
+tags: []
+summary: ''
+---
+
+
+Two group meetings took place on the 9th and 15th of August. On the 9th of August we were given an introduction to selective breeding and outlined some of the goals and challenges in this field have. These include:
+
+1.Improving experimental design
+
+2.Improving prediction of genetic performance
+
+3.Understanding the biological process
+
+4.Improving computational performance
+
+
+For our project, we decided that we would focus on the data surrounding the selective breeding of plant crops instead of livestock - this is as there is less ‘noise’ in the data. Throughout the week, I researched the process of wheat growing & some of the factors that may affect the potential yield of the the crops. These include factors such as the 1000 grain-weight, leaf area index, the germination percentage and the temperature, oxygen and nutrient levels of the soil. Another notable factor in this article was the thorough mention of the widespread growth scale that is used by wheat farmers -- the Zadok’s decimal growth scale (New South Wales Department of Primary Industries, 2007).  This could prove to be useful metadata (data describing data) to aid in our understanding of data which is found and analysed throughout the project. 
+
+I also found an Australian organisation, the Australian Centre for Plant Functional Genomics (ACPFG), which research the selective breeding of crops. They look at some of the factors that can decrease the yield of wheat and barley crops such as salinity, drought, frost, nutrient deficiency. Their research lies in functional genomics, which they define as “automated testing of technologies that produce large amounts of data on genes, proteins and metabolites that arise through altered gene activity.” They have articles on their website regarding their research into areas such as drought resistance, aluminium tolerance, and frost tolerance or wheat and barley (ACPFG, n.d). 
+
+Furthermore, at the discretion of our group leader on the 15th of August, I read some of the articles on the CAIGE Project page. CAIGE are an Australian organisation who are partnered with two international organisations - these two organisations (CIMMYT and ICARDIA) focus on wheat improvement and agricultural research respectively. CAIGE receive bread wheat, durum germplasm, and barley from their two partner organisations annually. The durum and bread wheat barley undergo  yield tests and the different varieties are tested and scored. The better performing varieties undergo quality testing and disease screening. All of the data is made available on the CAIGE website - this will likely prove invaluable throughout the project. (CAIGE, 2018).
+
+Furthermore, the communication routes for our group have been established throughout the week.
+
+##Reference
+Australian Centre for Plant Functional Genomics, n.d,Taking the stress out of agriculture, ACPFG, viewed 15 August 2018, http://www.acpfg.com.au/uploads/documents/publications/wheat_barley_book.pdf
+
+CIMMYT Australia ICARDIA Germplasm Evaluation 2018, CAIGE, Canberra, viewed 16 November 2018, http://www.deewr.gov.au/http://www.caigeproject.org.au/ 
+
+New South Wales Department of Primary Industries, 2007, Wheat Growth and Devleopment, NSW DPI, viewed August 11 2018,
+ https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0006/449367/Procrop-wheat-growth-and-development.pdf
+ 
+

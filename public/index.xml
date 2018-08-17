@@ -6,30 +6,42 @@
     <description>Recent content on Future of Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>/test/</link>
-      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <title>First Journal - Andrew Mchale</title>
+      <link>/post/2018-08-17-first-journal-andrew-mchale/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/test/</guid>
-      <description>Hello Hello Second Level Heading This is bolded
-plot(dist ~ speed, cars)   </description>
+      <guid>/post/2018-08-17-first-journal-andrew-mchale/</guid>
+      <description>The group’s first meeting occurred in week 2, which served as an introduction to the project and allowed us to get to know each other. Another meeting occurred this week, and it mainly involved setting up and understanding the development environment that the project will be created in. Github is being used alongside RStudio to create a website that will contain detailed statistical analysis of crop production in Australia. The main advantage of Github for this project is that it allows easy code collaboration, with version history being tracked.</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>First Journal - Jayden Fraser</title>
+      <link>/post/2018-08-17-first-journal-jayden-fraser/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/post/2018-08-17-first-journal-jayden-fraser/</guid>
+      <description>Two group meetings took place on the 9th and 15th of August. On the 9th of August we were given an introduction to selective breeding and outlined some of the goals and challenges in this field have. These include:
+1.Improving experimental design
+2.Improving prediction of genetic performance
+3.Understanding the biological process
+4.Improving computational performance
+For our project, we decided that we would focus on the data surrounding the selective breeding of plant crops instead of livestock - this is as there is less ‘noise’ in the data.</description>
+    </item>
+    
+    <item>
+      <title>First Journal - Keenan Lee</title>
+      <link>/post/2018-08-17-first-journal-keenan-lee/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-08-17-first-journal-keenan-lee/</guid>
+      <description>For our project, we will have to use mathematical models to determine what are the optimal genes and traits to maximise economic outcomes for our agriculture sector. We will possibly have to analyse multiple experiments and data.
+Our group had our first meeting last week on Thursday 09/08/2018, where we were provided a brief introduction to the showcase and the topic we will be investigating. Our mentor provided us with some ideas which were very helpful such as software development and improving experimental design.</description>
     </item>
     
   </channel>
