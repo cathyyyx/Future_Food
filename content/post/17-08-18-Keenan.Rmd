@@ -1,0 +1,16 @@
+##Keenan Lee - Future of Food: the Analytics of Selective Breeding
+#Entry 1 - 17/08/18
+
+For our project, we will have to use mathematical models to determine what are the optimal genes and traits to maximise economic outcomes for our agriculture sector. We will possibly have to analyse multiple experiments and data.
+Our group had our first meeting last week on Thursday 09/08/2018, where we were provided a brief introduction to the showcase and the topic we will be investigating. Our mentor provided us with some ideas which were very helpful such as software development and improving experimental design. However, we wanted to continue discussing and brainstorming ideas.
+At the end of our discussion, we were still unsure of what approach to take to our project so we decided to go home and do further research for ideas. We agreed to come back next week with 3 ideas which we will all present to each other and discuss where we can hopefully come to a consensus.
+
+The 3 ideas I have come up with are: 
+1.	Data analysis. This will involve looking at the data and the different traits to determine what is the most optimal composition to optimise certain categories such as crop yield etc. This will also factor in experimental design of where we got our statistics. We will attempt to create models that can allow for accurate predictions. A problem is If we want to provide a guide to the general Australian population, how do we find an experiment or dataset which is indicative of crop yields for the population. This may be where we will have to analyse environmental factors into the results of the experiments and data. However, there are many experiments so we cannot include all of them. How do we choose the best datasets?  Perhaps we have to focus on a certain region and then get a narrow dataset and experiment thing from that. Overall, I think this idea is the most viable one.
+2.	We create a software which collates data. The main purpose will be to provide ease of use to users, through allowing them to easily filter, categorise and visualise data. However, this sounds like it will be difficult to achieve so this idea will have to be discussed with group members.
+3.	My next idea is that we analyse major agricultural experiments and revise their experimental designs to improve the data and results of those experiments. I don’t think this idea will be too interesting though.
+
+In the meanwhile, I have searched up ideas for data science projects and I will continue to do research into domain knowledge for agriculture.
+
+My main goals for next week’s meeting is to all agree on an approach and direction to take and to begin working on this idea or lay out a foundation for it.
+
