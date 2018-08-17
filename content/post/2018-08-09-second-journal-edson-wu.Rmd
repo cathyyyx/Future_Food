@@ -1,0 +1,26 @@
+---
+title: 2018/08/17 - Edson Wu
+author: Edson Wu
+date: '2018-08-17'
+categories: [edson]
+tags: []
+summary: ''
+---
+
+We had a second meeting on the 15th, however due to a change in day, and miscommunication on my part, I missed it. I have since been brought up to speed through our communication channels. The focus of the meeting was primarily the use of GitHub, and rStudio, and also further research into the processes of selective breeding and agricultural research.
+
+As per the previous week’s decisions, I have researched further into the potential directions of our project. Through a variety of websites and articles, I have learned about the increasing roles that technology and selective breeding using that technology has in Australian farming.
+Robotics, precision agriculture and greenhouses provide the stable and consistent conditions that allow for DNA based analysis and selection to remain accurate and true, once released for field trialing (AGT Breeding). Furthermore, wheat accounts for 17% of the world’s export demand, and is Australia’s largest grain crop, followed closely by barely. ACPFG’s market evaluation of Australian farms concluded that “salinity, drought, frost and nutrient deficiencies or toxicities were the main abiotic stresses that reduced yield and quality of cereal crops” (ACPFG, 2005).
+
+Through this research, I have two main directions to take the project on:
+
+1. Broaden the scope to extend to overseas data, and see how it compares to Australia data on how certain crops grow, and their economic success. This would allow countries to really determine the most economically sustainable plants (perhaps grain more specifically, as it most relevant to Australian farming) from an data-analysis standpoint.
+2. Conduct experiments that show what the most optimal experimental design is in determining the economically successful traits in these crops. It will allow, the cheapest and most effective forms of selective breeding testing.
+
+These ideas should be discussed further in the following meetings to come.
+
+## Bibliography
+
+http://www.acpfg.com.au/uploads/documents/publications/wheat_barley_book.pdf
+
+http://www.agtbreeding.com.au/about/the-science-of-breeding

@@ -12,11 +12,30 @@
     
     
     <item>
+      <title>2018/08/17 - Edson Wu</title>
+      <link>/post/2018-08-09-second-journal-edson-wu/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-08-09-second-journal-edson-wu/</guid>
+      <description>We had a second meeting on the 15th, however due to a change in day, and miscommunication on my part, I missed it. I have since been brought up to speed through our communication channels. The focus of the meeting was primarily the use of GitHub, and rStudio, and also further research into the processes of selective breeding and agricultural research.
+As per the previous week’s decisions, I have researched further into the potential directions of our project.</description>
+    </item>
+    
+    <item>
       <title>First Journal - Andrew Mchale</title>
       <link>/post/2018-08-17-first-journal-andrew-mchale/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018-08-17-first-journal-andrew-mchale/</guid>
+      <description>The group’s first meeting occurred in week 2, which served as an introduction to the project and allowed us to get to know each other. Another meeting occurred this week, and it mainly involved setting up and understanding the development environment that the project will be created in. Github is being used alongside RStudio to create a website that will contain detailed statistical analysis of crop production in Australia. The main advantage of Github for this project is that it allows easy code collaboration, with version history being tracked.</description>
+    </item>
+    
+    <item>
+      <title>First Journal - Andrew Mchale</title>
+      <link>/post/2018-08-17-first-journal-edson-wu/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-08-17-first-journal-edson-wu/</guid>
       <description>The group’s first meeting occurred in week 2, which served as an introduction to the project and allowed us to get to know each other. Another meeting occurred this week, and it mainly involved setting up and understanding the development environment that the project will be created in. Github is being used alongside RStudio to create a website that will contain detailed statistical analysis of crop production in Australia. The main advantage of Github for this project is that it allows easy code collaboration, with version history being tracked.</description>
     </item>
     
@@ -42,6 +61,16 @@ For our project, we decided that we would focus on the data surrounding the sele
       <guid>/post/2018-08-17-first-journal-keenan-lee/</guid>
       <description>For our project, we will have to use mathematical models to determine what are the optimal genes and traits to maximise economic outcomes for our agriculture sector. We will possibly have to analyse multiple experiments and data.
 Our group had our first meeting last week on Thursday 09/08/2018, where we were provided a brief introduction to the showcase and the topic we will be investigating. Our mentor provided us with some ideas which were very helpful such as software development and improving experimental design.</description>
+    </item>
+    
+    <item>
+      <title>First Journal - Edson Wu</title>
+      <link>/post/2018-08-09-first-journal-edson-wu/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-08-09-first-journal-edson-wu/</guid>
+      <description>Our science showcase project as in the title is “Future of Food: Analytics of Selective Breeding”. The focus, as outlined in the project descriptions, is on the understanding, development and communication of quantitative genetic analysis that maximises economically important traits. This data uses mathematical modelling to determine the optimal genes and traits to maximise economic benefits for Australian farming to remain competitive.
+We had our first group meeting, and between the six students, a third-year tutor, and our mentor, we discussed three main things:</description>
     </item>
     
   </channel>

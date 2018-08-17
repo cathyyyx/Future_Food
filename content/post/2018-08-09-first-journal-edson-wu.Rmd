@@ -1,0 +1,25 @@
+---
+title: First Journal - Edson Wu
+author: Edson Wu
+date: '2018-08-09'
+categories: [edson]
+tags: []
+summary: ''
+---
+
+Our science showcase project as in the title is “Future of Food: Analytics of Selective Breeding”. The focus, as outlined in the project descriptions, is on the understanding, development and communication of quantitative genetic analysis that maximises economically important traits. This data uses mathematical modelling to determine the optimal genes and traits to maximise economic benefits for Australian farming to remain competitive.
+
+We had our first group meeting, and between the six students, a third-year tutor, and our mentor, we discussed three main things:
+
+1. Brief introduction to the processes behind selective breeding and the use of mathematical models and data.
+2. Our varying strengths and weaknesses, particularly in coding, as it is essential in creation of a mathematical model
+3. Determined communication channels.
+
+In this introductory meeting, I helped organise our communication channels, and posed
+questions to clarify our understanding of the topic of selective breeding. Through the
+questioning and help from our mentor, we have certain directions we would like to follow:
+
+* We are leaning towards the analysis of plant-based data due to “noise” limitations in the genetic data of animals and humans. These limitations are a variety of intangible factors and factors that are difficult to quantify, such as behaviour, human interaction, and environmental influences
+* We determined that we need further knowledge on the topic and have decided to come back in the following week with 2-3 ideas to discuss and come to a consensus as to which direction to take for our project 
+
+Overall, our first meeting was a brief, and although initially halting, effective meeting, that established key aspects of our project.
